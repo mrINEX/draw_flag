@@ -1,5 +1,7 @@
 **Usage**
+```
 npm install draw_flag;
+```
 
 ```
 const { addDraw } = require('draw_flag');
