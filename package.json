@@ -1,7 +1,7 @@
 {
   "name": "draw_flag",
   "version": "2.0.0",
-  "description": "you can draw before log",
+  "description": "you can draw before log, [ ukraine ] available",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
